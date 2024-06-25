@@ -34,4 +34,4 @@ input_pdf_path = 'path/to/encrypted.pdf'
 output_pdf_path = 'path/to/decrypted.pdf'
 password = 'your_password'
 
-remove_pdf_password(input_pdf_path="veterans_letter.pdf", output_pdf_path="veterans_letter_pena.pdf", password="2-29672625665")
+remove_pdf_password(input_pdf_path, output_pdf_path, password)
